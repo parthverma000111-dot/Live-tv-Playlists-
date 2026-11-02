@@ -1,12 +1,15 @@
-
 #EXTM3U
-#EXTINF:-1,SET HD
+
+#EXTINF:-1 tvg-name="SET HD" group-title="Entertainment",SET HD
 https://rebrand.ly/SetHD
-#EXTINF:-1,SAB HD
+
+#EXTINF:-1 tvg-name="SONY SAB HD" group-title="Entertainment",SONY SAB HD
 https://rebrand.ly/SabHD
-#EXTINF:-1,Sony Sports
+
+#EXTINF:-1 tvg-name="SONY SPORTS" group-title="Sports",SONY SPORTS
 https://rebrand.ly/sonySports
-#EXTINF:-1,Color HD
+
+#EXTINF:-1 tvg-name="COLORS HD" group-title="Entertainment",COLORS HD
 https://rebrand.ly/ColorHD
 
 
